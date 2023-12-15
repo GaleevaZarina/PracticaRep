@@ -1,0 +1,7 @@
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\obj\Debug\pr1-2.csproj.AssemblyReference.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\obj\Debug\pr1-2.csproj.SuggestedBindingRedirects.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\obj\Debug\pr1-2.csproj.CoreCompileInputs.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\bin\Debug\pr1_2.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\bin\Debug\pr1_2.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\obj\Debug\pr1_2.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-2\obj\Debug\pr1_2.pdb
