@@ -9,23 +9,30 @@ namespace pr3_2
     {
         public static void Main(string[] args)
         {
-            List<int> nums = new List<int>();            
+            List<int> nums = new List<int>();
+
             string fileName = @"C:\Users\public.COPP\Desktop\nums.txt";
-            using StreamReader reader = new StreamReader(fileName);
-            while (!reader.EndOfStream)
+            StreamReader reader = new StreamReader(fileName);
+            while (!reader.EndOfStream) 
             {
+                    
                 string line = reader.ReadLine();
+                    
                 nums = line.Split(' ').Select(int.Parse).ToList();
             }
             reader.Close();
-            using FileStream fstream = new FileStream(fileName, FileMode.Create, FileAccess.Write);
+            
+            StreamWriter writer = new StreamWriter(fileName);
+
             for (int i = 0; i < nums.Count; i++)
             {
                 if (nums[i] % 2 != 0)
                 {
-                    
+                    writer.Write($"{nums[i]} ");
                 }
             }
+            
         }
+
     }
 }
