@@ -1,0 +1,7 @@
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.AssemblyReference.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.SuggestedBindingRedirects.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.CoreCompileInputs.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.pdb
