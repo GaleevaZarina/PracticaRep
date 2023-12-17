@@ -5,3 +5,17 @@ D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.CoreCompileInputs.cache
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.exe
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.pdb
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.pdb
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\bin\Debug\RKIS_PR3.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\RKIS_PR3\obj\Debug\RKIS_PR3.pdb

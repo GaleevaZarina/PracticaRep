@@ -1,0 +1,7 @@
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\bin\Debug\pr4_4.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\bin\Debug\pr4_4.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\obj\Debug\pr4-4.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\obj\Debug\pr4-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\obj\Debug\pr4-4.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\obj\Debug\pr4_4.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-4\obj\Debug\pr4_4.pdb

@@ -1,0 +1,14 @@
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\bin\Debug\RKIS_PR4.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\bin\Debug\RKIS_PR4.pdb
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\bin\Debug\RKIS_PR4.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\bin\Debug\RKIS_PR4.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\RKIS_PR4\obj\Debug\RKIS_PR4.pdb

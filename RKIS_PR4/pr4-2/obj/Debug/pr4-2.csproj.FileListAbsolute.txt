@@ -1,0 +1,3 @@
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-2\obj\Debug\pr4-2.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-2\obj\Debug\pr4-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR4\pr4-2\obj\Debug\pr4-2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\bin\Debug\pr3_2.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\bin\Debug\pr3_2.pdb
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\obj\Debug\pr3_2.exe
+C:\Users\public.COPP\Desktop\PracticaRep-master\RKIS_PR3\pr3-2\obj\Debug\pr3_2.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\bin\Debug\pr3_2.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\bin\Debug\pr3_2.pdb
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\obj\Debug\pr3-2.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\obj\Debug\pr3_2.exe
+C:\Users\public.COPP\Desktop\asd\RKIS_PR3\pr3-2\obj\Debug\pr3_2.pdb
