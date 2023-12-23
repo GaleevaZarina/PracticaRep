@@ -1,0 +1,7 @@
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\bin\Debug\pr2_3.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\bin\Debug\pr2_3.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\obj\Debug\pr2-3.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\obj\Debug\pr2-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\obj\Debug\pr2-3.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\obj\Debug\pr2_3.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR2\pr2-3\obj\Debug\pr2_3.pdb

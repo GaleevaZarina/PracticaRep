@@ -1,0 +1,14 @@
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\bin\Debug\pr4_6.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\bin\Debug\pr4_6.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.AssemblyReference.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.SuggestedBindingRedirects.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.CoreCompileInputs.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4_6.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4_6.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\bin\Debug\pr4_6.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\bin\Debug\pr4_6.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4-6.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4_6.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR4\pr4-6\obj\Debug\pr4_6.pdb

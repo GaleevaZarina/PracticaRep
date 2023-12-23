@@ -5,3 +5,10 @@ D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-5\obj\Debug\pr1-5.csproj
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-5\obj\Debug\pr1-5.csproj.CoreCompileInputs.cache
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-5\obj\Debug\pr1_5.exe
 D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS\pr1-5\obj\Debug\pr1_5.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\bin\Debug\pr1_5.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\bin\Debug\pr1_5.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\obj\Debug\pr1-5.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\obj\Debug\pr1-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\obj\Debug\pr1-5.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\obj\Debug\pr1_5.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS\pr1-5\obj\Debug\pr1_5.pdb

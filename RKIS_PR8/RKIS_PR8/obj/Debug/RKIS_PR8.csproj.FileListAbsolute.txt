@@ -1,0 +1,50 @@
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.exe
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.pdb
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.exe
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.pdb
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\public.COPP\Downloads\КОДЫ (1)\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CopyComplete
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.exe
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CopyComplete
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.exe
+C:\Users\Galee\OneDrive\Рабочий стол\коды2323~\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CopyComplete
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.pdb
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CopyComplete
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.exe
+C:\Users\public.COPP\Desktop\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\RKIS_PR8.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.dll
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\bin\Debug\Newtonsoft.Json.xml
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.AssemblyReference.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.SuggestedBindingRedirects.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CoreCompileInputs.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.csproj.CopyComplete
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR8\RKIS_PR8\obj\Debug\RKIS_PR8.pdb

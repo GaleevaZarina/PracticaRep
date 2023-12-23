@@ -9,7 +9,7 @@ namespace RKIS_PR3
     {
         public static void Main(string[] args)
         {
-            string fileName = @"D:\ТТИТ\РКИС\Практика\КОДЫ\input.txt"; // Создаем переменную fileName, чтобы хранить в ней путь к файлу input          
+            string fileName = @"D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\input.txt"; // Создаем переменную fileName, чтобы хранить в ней путь к файлу input          
             StreamReader reader = new StreamReader(fileName); // Создаем поток для чтения файла input
             string[] lines = File.ReadAllLines(fileName); // Читаем файл и записываем строки в массив lines
                                                           // lines - массив строк
@@ -36,7 +36,7 @@ namespace RKIS_PR3
 
             }            
             
-            fileName = @"D:\ТТИТ\РКИС\Практика\КОДЫ\output.txt"; // Перезаписываем путь файла       
+            fileName = @"D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\output.txt"; // Перезаписываем путь файла       
             StreamWriter writer = new StreamWriter(fileName); // Создаем поток для записи информации в файл output       
             
             foreach (var item in tickets) // Проходимся по билетам

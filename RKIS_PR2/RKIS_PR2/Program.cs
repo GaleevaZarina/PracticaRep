@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace RKIS_PR2
 {
@@ -9,13 +8,12 @@ namespace RKIS_PR2
         {
             int[] numbers = new int[100]; // Создаем массив numbers размерностью 100
                                           
-            numbers[0] = 103; // Первый элемент массива равен 100
-            // Заполняем массив numbers с помощью цикла for
-            for (int i = 1; i < 100; i++)            
+            numbers[0] = 100; // Первый элемент массива равен 100
+            
+            for (int i = 1; i < 100; i++) // for заполняет массив numbers     
             {                
                 numbers[i] = numbers[i - 1] - 3; // присваиваем элемену массива значение на 3 меньше предыдущего элемента
-                                                 
-                Console.Write(numbers[i] + " "); // Сразу выводим массив numbers
+                Console.Write(numbers[i-1] + " "); // Сразу выводим массив numbers
             }
             
         }

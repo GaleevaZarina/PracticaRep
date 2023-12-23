@@ -1,0 +1,7 @@
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\bin\Debug\pr5_3.exe
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\bin\Debug\pr5_3.pdb
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\obj\Debug\pr5-3.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\obj\Debug\pr5-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\obj\Debug\pr5-3.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\obj\Debug\pr5_3.exe
+C:\Users\public.COPP\Desktop\Galeeva624\RKIS_PR5\pr5-3\obj\Debug\pr5_3.pdb

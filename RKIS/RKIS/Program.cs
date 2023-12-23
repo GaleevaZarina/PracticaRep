@@ -12,15 +12,14 @@ namespace RKIS
             
             int minindex = 0; // Переменная minindex будет хранить индкекс элемента с минимальным значением
                               
-            Console.WriteLine("Массив numbers: "); // Создаем цикл for, заполняем массив numbers случайными числами и ищем минимальный элемент
-                                                   
-            for (int i = 0; i < numbers.Length; i++)            
+            Console.WriteLine("Массив numbers: "); 
+            
+            for (int i = 0; i < numbers.Length; i++) // Создаем цикл for, заполняем массив numbers случайными числами и ищем минимальный элемент      
             {                
                 numbers[i] = rnd.Next(100); // Присваивание случайного числа элементу массива numbers
-                /* Если значение элемента масива numbers < min, то присваиваем min значение этого элемента
-                 и присваиваем переменной minindex индекс этого элемента */
-                if (numbers[i] < min)
-                {
+                
+                if (numbers[i] < min) // Если значение элемента масива numbers < min, то присваиваем min значение этого элемента
+                {                     // и присваиваем переменной minindex индекс этого элемента
                     min = numbers[i];                            
                     minindex = i;
                 }                               

@@ -1,0 +1,7 @@
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\bin\Debug\RKIS_PR6.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\bin\Debug\RKIS_PR6.pdb
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\obj\Debug\RKIS_PR6.csproj.AssemblyReference.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\obj\Debug\RKIS_PR6.csproj.SuggestedBindingRedirects.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\obj\Debug\RKIS_PR6.csproj.CoreCompileInputs.cache
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\obj\Debug\RKIS_PR6.exe
+D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR6\RKIS_PR6\obj\Debug\RKIS_PR6.pdb

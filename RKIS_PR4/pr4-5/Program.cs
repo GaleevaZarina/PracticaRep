@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.IO;
-using System.Net;
 
 namespace pr4_5
 {
@@ -10,9 +8,9 @@ namespace pr4_5
     {
         public static void Main(string[] args)
         {
-            Console.Write("Введите координаты (a, b):\na = ");
+            Console.Write("\nВведите координаты (a, b):\na = ");
             double a = double.Parse(Console.ReadLine());
-            Console.Write("b = ");
+            Console.Write("\nb = ");
             double b = double.Parse(Console.ReadLine());
             
             if(a >= -1 && a <= 3 && b >= -2 && b <=4)

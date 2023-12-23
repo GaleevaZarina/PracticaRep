@@ -8,44 +8,54 @@ namespace pr3_3
     {
         public static void Main(string[] args)
         {
-            string fileName = @"C:\Users\public.COPP\Desktop\water.txt";
+            string fileName = @"D:\ТТИТ\РКИС\Практика\КОДЫ\RKIS_PR3\water.txt"; // Создаем переменную fileName, чтобы хранить в ней путь к файлу water
            
-            string line = "";
-            StreamReader reader = new StreamReader(fileName);
-            while (!reader.EndOfStream) 
+            string line = ""; // Создаем пустую строку line, чтобы записать в нее прочитанные из файла строки
+            StreamReader reader = new StreamReader(fileName); // Создаем поток для чтения файла water
+            
+            while (!reader.EndOfStream) // Читаем файл water построчно и записываем в line
             {
                 line = reader.ReadLine();
             }
-            reader.Close();
+            reader.Close(); // Закрываем поток
 
-            int[] height = line.Split(' ').Select(int.Parse).ToArray();
+            // Создаем массив height и записываем в него полученные числа
+            int[] height = line.Split(' ').Select(int.Parse).ToArray(); 
 
-            int maxWater = 0;
+            int maxWater = 0; // Создаем переменную maxWater, в которую будем записывать содержание наибольшего количества воды
             
+            
+            // ИСпользуем уикл в цикле и сравниваем между собой элементы массива (вертикальные линии)
             for (int i = 0; i < height.Length; i++)
             {
-                Console.Write($"{height[i]} ");
-                int count = 1;
+                Console.Write($"{height[i]} "); // Выводим числа, которые были записаны в файле water
+                int countWater =
+                    1; // Создаем счетчик наибольшего количества воды, при каждой новой итерации обнуляем его до 1
+
                 for (int j = 0; j < height.Length; j++)
                 {
-                    if (height[i] >= height[j])
+                    if (height[i] >= height[j]) // Проверяем какой из сверяемых столбцов меньше
                     {
-                        count = height[j] * Math.Abs((j - i));
+                        countWater =
+                            height[j] * Math.Abs((j - i)); // Записываем в счетчик произведение наименьшего столбца
+                        // и расстояния между этими столбцами
                     }
-                    else if (height[i] <= height[j])
+                    else if (height[i] <= height[j]) // Проверяем какой из сверяемых столбцов меньше
                     {
-                        count = height[i] * Math.Abs((j - i));
+                        countWater =
+                            height[i] * Math.Abs((j - i)); // Записываем в счетчик произведение наименьшего столбца
+                        // и расстояния между этими столбцами
                     }
-                    
-                    if (count > maxWater)
+
+                    if (countWater > maxWater) // Проверка на наибольшее колчисетво воды
                     {
-                        maxWater = count;
+                        maxWater = countWater;
                     }
                 }
             }
             
-            Console.WriteLine("\n" + maxWater);
-
+            Console.WriteLine("\n" + maxWater); // Выводим полученный результат
+            
         }
     }
 }
